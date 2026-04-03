@@ -1,0 +1,35 @@
+[
+  {
+    "selector": "#btn-create-order",
+    "title": "新建订单",
+    "type": "normal",
+    "desc": "手动创建单个订单，适用于客户通过邮件或WhatsApp下单的情况。",
+    "warn": "提交前必须确认SKU和收货地址"
+  },
+  {
+    "selector": "#btn-batch-import",
+    "title": "批量导入",
+    "type": "normal",
+    "desc": "通过Excel模板批量上传订单，适合大客户每日批量下单场景。",
+    "warn": "模板版本需与系统一致，旧模板会报错"
+  },
+  {
+    "selector": "#btn-force-ship",
+    "title": "强制发货",
+    "type": "danger",
+    "desc": "跳过库存校验直接推送发货指令，操作后无法撤回。",
+    "warn": "需组长授权后操作，操作记录将被审计"
+  },
+  {
+    "selector": "#btn-advanced-filter",
+    "title": "高级筛选",
+    "type": "query",
+    "desc": "支持按时间范围、物流状态、客户ID多条件筛选订单。"
+  },
+  {
+    "selector": ".order-status-badge",
+    "title": "订单状态说明",
+    "type": "info",
+    "desc": "待处理=未付款或未确认；处理中=已付款仓库备货；已发货=物流已揽收。"
+  }
+]
