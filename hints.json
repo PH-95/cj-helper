@@ -16,3 +16,12 @@
     "desc": "Note：客户需要处理的内容会在这里展示，例如，补款，ticket等。"
   }
 ]
+
+[
+  {
+    "selector": "body > div.cj-main > div.cj-container > div.banner-wrap.mt-2 > div > div.vue-right-side-admin > div > div > a",
+    "title": "运费计算器",
+    "type": "info",
+    "desc": "Note：客户没有SKU，需要计算某仓库到某国家的运费时候，可以点击计算，输入，尺寸，邮编，国家，和产品属性等信息。"
+  }
+]
