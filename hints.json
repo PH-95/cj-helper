@@ -3,7 +3,16 @@
     "selector": ".src-components-CjHeader-components-LanguageAndCurrency-index__languageLabel--o7sf9",
     "title": "语言与货币切换",
     "type": "info",
-    "desc": "SOP提示：如果客户反馈看不懂语言或币种不对，请引导客户在这里切换语言和货币，无论货币怎么换，CJ上面结算的金额仅以美金结算。"
+    "desc": "Note：如果客户反馈看不懂语言或币种不对，请引导客户在这里切换语言和货币，无论货币怎么换，CJ上面结算的金额仅以美金结算。"
   }
 ]
 
+
+[
+  {
+    "selector": ".src-components-CjHeader-block-search-nav__right--xLLlf > div:nth-child(2) > i",
+    "title": "客户需要注意的任务",
+    "type": "info",
+    "desc": "Note：客户需要处理的内容会在这里展示，例如，补款，ticket等。"
+  }
+]
