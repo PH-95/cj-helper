@@ -3,7 +3,7 @@
     "selector": ".src-components-CjHeader-components-LanguageAndCurrency-index__languageLabel--o7sf9",
     "title": "语言与货币切换",
     "type": "info",
-    "desc": "SOP提示：如果客户反馈看不懂语言或币种不对，请引导客户在这里切换语言和货币。"
+    "desc": "SOP提示：如果客户反馈看不懂语言或币种不对，请引导客户在这里切换语言和货币，无论货币怎么换，CJ上面结算的金额仅以美金结算。"
   }
 ]
 
